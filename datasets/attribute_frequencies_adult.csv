@@ -1,0 +1,175 @@
+Attribute,Value,Count
+age,36,1283
+age,33,1279
+age,31,1274
+age,35,1272
+age,23,1241
+age,34,1234
+age,37,1229
+age,30,1215
+age,38,1211
+age,28,1198
+age,32,1196
+age,41,1174
+age,39,1169
+age,29,1157
+age,27,1157
+age,40,1144
+age,25,1133
+age,24,1130
+age,42,1113
+age,26,1092
+age,43,1065
+age,46,1062
+age,45,1049
+age,47,1038
+age,44,1035
+age,22,1034
+age,21,935
+age,20,916
+age,19,864
+age,51,835
+age,50,829
+age,48,815
+age,49,810
+age,52,700
+age,18,695
+age,53,689
+age,54,584
+age,55,574
+age,56,534
+age,58,517
+age,57,514
+age,17,493
+age,59,488
+age,60,398
+age,61,394
+age,62,328
+age,64,285
+age,63,280
+age,65,217
+age,67,180
+age,66,180
+age,68,136
+age,69,116
+age,70,96
+age,71,90
+age,72,83
+age,73,82
+age,74,59
+age,75,53
+age,76,46
+age,90,46
+age,77,39
+age,80,29
+age,81,27
+age,78,21
+age,79,20
+age,82,10
+age,84,9
+age,83,9
+age,88,5
+age,85,5
+age,86,1
+age,89,1
+age,87,1
+workclass, Private,33307
+workclass, Self-emp-not-inc,3796
+workclass, Local-gov,3100
+workclass, State-gov,1946
+workclass, Self-emp-inc,1646
+workclass, Federal-gov,1406
+workclass, Without-pay,21
+education, HS-grad,14783
+education, Some-college,9899
+education, Bachelors,7570
+education, Masters,2514
+education, Assoc-voc,1959
+education, 11th,1619
+education, Assoc-acdm,1507
+education, 10th,1223
+education, 7th-8th,823
+education, Prof-school,785
+education, 9th,676
+education, 12th,577
+education, Doctorate,544
+education, 5th-6th,449
+education, 1st-4th,222
+education, Preschool,72
+marital-status, Married-civ-spouse,21055
+marital-status, Never-married,14598
+marital-status, Divorced,6297
+marital-status, Separated,1411
+marital-status, Widowed,1277
+marital-status, Married-spouse-absent,552
+marital-status, Married-AF-spouse,32
+occupation, Craft-repair,6020
+occupation, Prof-specialty,6008
+occupation, Exec-managerial,5984
+occupation, Adm-clerical,5540
+occupation, Sales,5408
+occupation, Other-service,4808
+occupation, Machine-op-inspct,2970
+occupation, Transport-moving,2316
+occupation, Handlers-cleaners,2046
+occupation, Farming-fishing,1480
+occupation, Tech-support,1420
+occupation, Protective-serv,976
+occupation, Priv-house-serv,232
+occupation, Armed-Forces,14
+relationship, Husband,18666
+relationship, Not-in-family,11702
+relationship, Own-child,6626
+relationship, Unmarried,4788
+relationship, Wife,2091
+relationship, Other-relative,1349
+race, White,38903
+race, Black,4228
+race, Asian-Pac-Islander,1303
+race, Amer-Indian-Eskimo,435
+race, Other,353
+sex, Male,30527
+sex, Female,14695
+native-country, United-States,41292
+native-country, Mexico,903
+native-country, Philippines,283
+native-country, Germany,193
+native-country, Puerto-Rico,175
+native-country, Canada,163
+native-country, El-Salvador,147
+native-country, India,147
+native-country, Cuba,133
+native-country, England,119
+native-country, China,113
+native-country, Jamaica,103
+native-country, South,101
+native-country, Italy,100
+native-country, Dominican-Republic,97
+native-country, Japan,89
+native-country, Guatemala,86
+native-country, Vietnam,83
+native-country, Columbia,82
+native-country, Poland,81
+native-country, Haiti,69
+native-country, Portugal,62
+native-country, Iran,56
+native-country, Taiwan,55
+native-country, Greece,49
+native-country, Nicaragua,48
+native-country, Peru,45
+native-country, Ecuador,43
+native-country, Ireland,36
+native-country, France,36
+native-country, Thailand,29
+native-country, Hong,28
+native-country, Cambodia,26
+native-country, Trinadad&Tobago,26
+native-country, Yugoslavia,23
+native-country, Outlying-US(Guam-USVI-etc),22
+native-country, Laos,21
+native-country, Scotland,20
+native-country, Honduras,19
+native-country, Hungary,18
+native-country, Holand-Netherlands,1
+salary,<=50K,34014
+salary,>50K,11208
