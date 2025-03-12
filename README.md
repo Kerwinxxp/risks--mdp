@@ -49,3 +49,6 @@ For any question, please contact [Héber H. Arcolezi](https://hharcolezi.github.
 
 ## License
 [MIT](https://github.com/hharcolezi/risks-ldp/blob/main/LICENSE)
+
+
+## Reidentification Smp[GRR]: No Knowledge, Surveys with Different Attributes, Uniform $\epsilon$
